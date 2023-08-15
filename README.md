@@ -49,9 +49,9 @@ robot_width=10
 
 ## Examples of Visualisation
 Visualisation can be configured through the #DRAW_NODE and #DRAW_RANDOM_POINT macroses in [src/visualisation_main.cpp](https://mrs.felk.cvut.cz/gitlab/beheni/planningbase/-/blob/master/src/visualisation_main.cpp)
- - Example with only edges is [here](https://mrs.felk.cvut.cz/gitlab/beheni/planningbase/-/tree/master/videos/only_edges.mp4)
- - Example with nodes is [here](https://mrs.felk.cvut.cz/gitlab/beheni/planningbase/-/tree/master/videos/with_nodes.mp4)
- - Example with the randomly sampled node is [here](https://mrs.felk.cvut.cz/gitlab/beheni/planningbase/-/tree/master/videos/with_random_point.mp4)
+ - Example with only edges is [here](https://github.com/beheni/rrt_path_planner/blob/main/videos/only_edges.mp4)
+ - Example with nodes is [here](https://github.com/beheni/rrt_path_planner/blob/main/videos/with_nodes.mp4)
+ - Example with the randomly sampled node is [here](https://github.com/beheni/rrt_path_planner/blob/main/videos/with_random_point.mp4)
 
 
 
